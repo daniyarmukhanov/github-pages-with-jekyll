@@ -1,4 +1,4 @@
-# Welcome to my blog
+# Blog on github
 
 Is this my blog? meh... 
 
