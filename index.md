@@ -1,3 +1,6 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+Is this my blog? meh... 
+
+
+Have to customize it, make it more readable
